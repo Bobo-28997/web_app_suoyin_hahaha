@@ -19,7 +19,7 @@ with col2:
     st.write("这里是介绍。")
     # 直接显示一个点击链接
     st.markdown(
-       "[👉 打开轻卡提成审核系统](https://web-app-check-table-doublehandcar-f8x3bmweeavwzughieqfif.streamlit.app/)",
+       "[👉 打开轻卡提成审核系统](https://web-app-check-table-tablelighttruck-2n5s4k8censz7fjgy9wfzt.streamlit.app/)",
        unsafe_allow_html=True
     )
 
@@ -28,6 +28,6 @@ with col3:
     st.write("这里是介绍。")
 # 直接显示一个点击链接
     st.markdown(
-       "[👉 打开二手车提成审核系统](https://web-app-check-table-tablelighttruck-2n5s4k8censz7fjgy9wfzt.streamlit.app/)",
+       "[👉 打开二手车提成审核系统](https://web-app-check-table-doublehandcar-f8x3bmweeavwzughieqfif.streamlit.app/)",
        unsafe_allow_html=True
     )
