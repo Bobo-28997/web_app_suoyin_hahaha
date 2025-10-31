@@ -10,7 +10,7 @@ with col1:
     st.subheader("💰 重卡提成审核系统")
     st.write("这里是介绍。")
     st.markdown(
-       "[👉 打开重卡提成审核系统](https://web-app-check-table-table2-greqttubpqgo9asf5cym7f.streamlit.app/)",
+       "[👉 打开重卡提成审核系统](https://webapp1testname-y2ybwz5k7jappz2pbke7ezf.streamlit.app/)",
        unsafe_allow_html=True
     )
 
